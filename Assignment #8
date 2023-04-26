@@ -1,8 +1,9 @@
 1) Drosophila Melanogaster (dm3)
 2) Pax
-3) 
-4) 
+3) Genomic Location: "chr2L:19404129"; Target Sequence: "GAGGGATTCCATGAGCGTGACGG"
+4) Left Primer Coordinates: "chr2L:19404264-19404286" Left Primer: "ACTACCACAATCTGTTCAGCCC"
+   Right Primer Coordinates: "chr2L:19404039-19404061" Right Primer: "GCCGAGATGTAGTTCTCCATAA"
 5) Pax genes help to control how the bodys develop; If these genes are
    knocked out the fly might have shorter legs, its wings would be 
-   smaller or missing altogether, and it could have changes in the way 
-   its head/eyes look.
+   smaller or missing, and it could have changes in the way its head
+   and eyes look.
